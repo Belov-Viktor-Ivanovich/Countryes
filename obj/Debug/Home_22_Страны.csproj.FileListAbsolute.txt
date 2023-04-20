@@ -1,0 +1,26 @@
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\Home_22_Страны.exe.config
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\Home_22_Страны.exe
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\Home_22_Страны.pdb
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\EntityFramework.dll
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\EntityFramework.xml
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.AssemblyReference.cache
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.CopyComplete
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.exe
+C:\Users\Марина\Documents\C#HOME\Home_22_Страны\obj\Debug\Home_22_Страны.pdb
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\Home_22_Страны.exe.config
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\Home_22_Страны.exe
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\Home_22_Страны.pdb
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\EntityFramework.dll
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\EntityFramework.xml
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.AssemblyReference.cache
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.SuggestedBindingRedirects.cache
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.csproj.CopyComplete
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.exe
+C:\Users\Взрослая академия\Desktop\Home_22_Страны\obj\Debug\Home_22_Страны.pdb
